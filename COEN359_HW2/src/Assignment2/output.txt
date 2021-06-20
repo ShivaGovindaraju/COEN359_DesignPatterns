@@ -1,0 +1,27 @@
+Sigma Report Generator Output File
+No. of Projects Canceled: 1
+No. of Projects Completed: 1
+No. of Projects Active: 0
+
+Completed Projects Details:
+
+--Project ID: ProjABC
+--No. of Tasks: 2
+
+Task ID: Task1
+Start Date: 03/14/2020
+Completed Date: 04/14/2020
+No. of Staff Employees: 0
+No. of Contract Employees: 1
+Employees assigned to Task:
+Mary Jones,
+
+Task ID: Task2
+Start Date: 02/20/2020
+Completed Date: 04/20/2020
+No. of Staff Employees: 1
+No. of Contract Employees: 0
+Employees assigned to Task:
+John Smith,
+
+
